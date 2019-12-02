@@ -5,6 +5,6 @@ import com.uniform.generic.BasePage;
 public class uniformLoginPage 
 
 {
-	String v1 = "malik";
+	String v1 = "base";
 
 }
