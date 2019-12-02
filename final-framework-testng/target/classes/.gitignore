@@ -2,3 +2,7 @@
 /META-INF/
 /BaseTest.class
 /BasePage.class
+/db.properties
+/db.sql
+/others.properties
+/sql.properties
