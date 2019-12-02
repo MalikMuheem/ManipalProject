@@ -2,11 +2,9 @@ package com.uniform.pages;
 
 import com.uniform.generic.BasePage;
 
-public class uniformLoginPage extends BasePage
+public class uniformLoginPage 
 
 {
-	//Declaration
-	@FindBy ( id = )
 	
 	
 	
